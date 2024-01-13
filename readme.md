@@ -15,7 +15,7 @@ You can view the source code of the app in the app itself, for example <https://
 
 Install your own instance of Wastebin on Deta Space by clicking the button below.
 
-[![Install on Space](https://deta.space/buttons/dark.svg)](https://deta.space/discovery/@driftywinds/wastebin)
+[![Install on Space](https://deta.space/buttons/dark.svg)](https://deta.space/discovery/@driftywinds/wastebindw)
 
 ## Why is it called Wastebin?
 
